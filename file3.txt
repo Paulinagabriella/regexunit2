@@ -1,0 +1,4 @@
+Sometimes we only want to match a special character like a .
+Sometimes we only want to match a special character like a $
+Sometimes a ^ may show up. How do we match that?
+Maybe we need to match a * or a + sign.
